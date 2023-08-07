@@ -1,0 +1,5 @@
+/env
+*reviews*
+/docs
+/.idea
+.DS_Store
